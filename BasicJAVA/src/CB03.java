@@ -1,3 +1,4 @@
+// Print screen sum of a, b and c
 import java.util.Scanner;
 public class CB03 {
     public static void main(String[] args){

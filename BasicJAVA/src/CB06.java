@@ -1,3 +1,4 @@
+// Print screen area and perimeter of rectangle
 import java.util.Scanner;
 public class CB06 {
     public static void main(String[] args){

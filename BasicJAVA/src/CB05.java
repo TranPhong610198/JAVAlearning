@@ -1,3 +1,4 @@
+// Print screen remainder of division a for b
 import java.util.Scanner;
 public class CB05 {
     public static void main(String[] args){
