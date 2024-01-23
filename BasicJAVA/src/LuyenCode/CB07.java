@@ -1,3 +1,5 @@
+package LuyenCode;
+
 // Print screen area and circumference of circle radius r
 import java.util.Scanner;
 public class CB07 {

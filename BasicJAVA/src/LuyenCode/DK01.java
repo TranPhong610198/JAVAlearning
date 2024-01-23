@@ -1,3 +1,5 @@
+package LuyenCode;
+
 //find max of two numbers a and b
 import java.util.*;
 public class DK01 {

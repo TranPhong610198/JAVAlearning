@@ -1,11 +1,13 @@
-// Print screen sum a and b, follow the format a + b = c
+package LuyenCode;
+
+// Print screen remainder of division a for b
 import java.util.Scanner;
-public class CB08 {
+public class CB05 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int a, b;
         a = input.nextInt();
         b = input.nextInt();
-        System.out.printf("%d + %d = %d", a, b, a+b);
+        System.out.println(a-(a/b)*b);
     }
 }

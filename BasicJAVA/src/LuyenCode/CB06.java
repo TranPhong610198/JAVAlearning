@@ -1,3 +1,5 @@
+package LuyenCode;
+
 // Print screen area and perimeter of rectangle
 import java.util.Scanner;
 public class CB06 {

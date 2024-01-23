@@ -1,3 +1,5 @@
+package LuyenCode;
+
 // Print screen sum of a and b 
 import java.util.Scanner;
 public class CB02 { 

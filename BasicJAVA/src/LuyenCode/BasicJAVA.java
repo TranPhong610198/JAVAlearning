@@ -1,4 +1,4 @@
-package basicjava;
+package LuyenCode;
 
 public class BasicJAVA{
     public static void main(String[] args){
