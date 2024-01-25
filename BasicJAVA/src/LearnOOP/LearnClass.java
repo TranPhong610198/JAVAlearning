@@ -1,4 +1,4 @@
-package LearnCode;
+package LearnOOP;
 //import java.util.*;
 class Person{
     public String name;
